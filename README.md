@@ -24,7 +24,7 @@ The frontend is built with **plain HTML, CSS and JavaScript**: no frameworks, no
 
 ## 🌐 Live Demo
 
-> Add your link here after deploying, for example: `https://<your-username>.github.io/puducherry-travel-guide/`
+> Add your link here after deploying, for example: `https://ramyavengadesan.github.io/PU-Travel-Hub/`
 
 ## ✨ Features
 
@@ -164,7 +164,7 @@ Released under the [MIT License](LICENSE). Replace the name in the `LICENSE` fil
 ## 👤 Author
 
 **Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: `RamyaVengadesan`
 
 ---
 
